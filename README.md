@@ -1,8 +1,8 @@
-# ⚡ IGRIZZ CODES - Portfolio Website
-
-Welcome to the **IGRIZZ CODES** repository! This is a personal portfolio website designed with a unique **Comic Book / Pop Art** aesthetic ("Spider-Verse" inspired). It showcases my skills, projects, and services as a Frontend Developer and UI/UX Designer.
+# 💥 IGRIZZ CODES - Comic Style Portfolio 💥
 
 ![Portfolio Preview](./images/PF.png)
+
+Welcome to the **IGRIZZ CODES** repository! This is a personal portfolio website designed with a unique **Comic Book / Pop Art** aesthetic ("Spider-Verse" inspired). It showcases my skills, projects, and services as a Frontend Developer and UI/UX Designer.
 
 ## 🌟 Features
 
@@ -55,4 +55,6 @@ Portfolio Design/
 *   **Linktree**: [IGRIZ_Z](https://linktr.ee/IGRIZ_Z)
 
 ---
-*© 2025 IGRIZZ CODES. All Rights Reserved.*
+© 2025 IGRIZZ CODES. All Rights Reserved &
+Developed ❤️ by **IGRIZZ**
+
