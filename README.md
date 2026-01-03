@@ -2,7 +2,20 @@
 
 ![Portfolio Preview](./images/PF.png)
 
+<p align="center">
+  <a href="https://github.com/IGRIZZ02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://comicsportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
 Welcome to the **IGRIZZ CODES** repository! This is a personal portfolio website designed with a unique **Comic Book / Pop Art** aesthetic ("Spider-Verse" inspired). It showcases my skills, projects, and services as a Frontend Developer and UI/UX Designer.
+
+## 🔗 Live Demo
+
+You can view the live project here: [https://comicsportfolio.netlify.app/](https://comicsportfolio.netlify.app/)
 
 ## 🌟 Features
 
